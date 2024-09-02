@@ -4,7 +4,7 @@
     <test name="E2E">
 <parameter name="platformName" value="Android"></parameter>
         <classes>
-            <class name="org.testCase.LoginPageTest"/>
+            <class name="org.testCase.HomePageTest"/>
         </classes>
     </test>
 </suite>

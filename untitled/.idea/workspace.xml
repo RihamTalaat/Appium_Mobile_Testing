@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63d51592-02b1-41d7-b76c-cfc49f185f6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MobileFrameWork/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileFrameWork/qacartImages/failer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileFrameWork/src/main/java/org/screen/LoginPageScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileFrameWork/src/main/java/org/utils/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileFrameWork/src/test/java/org/testCase/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/dataFiles/userInfoFile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/screenShoots/null.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/main/java/pages/BrowserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/main/java/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/main/java/pages/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/test/java/featureCucumber/registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/test/java/runnerCucumber/runnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/test/java/stepsCucumber/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/test/java/tests/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/test/java/utility/HelperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagLabs/src/test/java/utility/TestDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/ear/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/ejbs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/ejbs/src/main/resources/META-INF/ejb-jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/primary-source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/projects/logging/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/projects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/servlets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/servlets/servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/servlets/servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/servlets/servlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/BrowserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/ChangePasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/main/java/pages/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/test/java/featureCucumber/registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/test/java/runnerCucumber/runnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/test/java/stepsCucumber/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/test/java/tests/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webook/src/test/java/utility/HelperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/screenShoots/null.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/main/java/pages/BrowserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/main/java/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/main/java/pages/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/test/java/featureCucumber/registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/test/java/runnerCucumber/runnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/test/java/stepsCucumber/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/test/java/tests/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebookProject/src/test/java/utility/HelperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileFrameWork/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/main/java/org/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileFrameWork/src/main/java/org/base/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/main/java/org/screen/LoginScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileFrameWork/src/main/java/org/screen/HomePageScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/main/resources/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileFrameWork/src/main/resources/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/test/java/org/testCase/LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/test/java/org/testCase/NewTaskPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/test/java/org/testCase/SignupPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/test/java/org/testCase/TaskPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/src/test/resources/APP/QAcart-To-Do.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileFrameWork/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileFrameWork/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2lVPoA9obCBcycKSeZXGL8Fh1dg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63d51592-02b1-41d7-b76c-cfc49f185f6a" name="Changes" comment="" />
+      <created>1725262442561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725262442561</updated>
+    </task>
+    <servers />
+  </component>
+</project>
